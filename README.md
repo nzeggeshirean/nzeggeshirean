@@ -1,6 +1,5 @@
 ## # Hi there! I'm Nzegge Shirean 
-
-### 💻 Professional Background
+💻 Professional Background
 - 🎓 **Education:** Student focusing on Computer Engineering & Software Engineering.
 - 🔭 **Current Focus:** Building responsive web applications and diving deep into system architectures.
 - ⚙️ **Core Interests:** Database Management Systems (Relational models & normalization) and Computer Networking.
